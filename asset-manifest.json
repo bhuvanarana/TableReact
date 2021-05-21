@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TableReact/static/css/main.3743a034.chunk.css",
+    "main.js": "/TableReact/static/js/main.4c55bc73.chunk.js",
+    "main.js.map": "/TableReact/static/js/main.4c55bc73.chunk.js.map",
+    "runtime-main.js": "/TableReact/static/js/runtime-main.08004b1f.js",
+    "runtime-main.js.map": "/TableReact/static/js/runtime-main.08004b1f.js.map",
+    "static/css/2.00bb4513.chunk.css": "/TableReact/static/css/2.00bb4513.chunk.css",
+    "static/js/2.40c5bb27.chunk.js": "/TableReact/static/js/2.40c5bb27.chunk.js",
+    "static/js/2.40c5bb27.chunk.js.map": "/TableReact/static/js/2.40c5bb27.chunk.js.map",
+    "static/js/3.53083d8f.chunk.js": "/TableReact/static/js/3.53083d8f.chunk.js",
+    "static/js/3.53083d8f.chunk.js.map": "/TableReact/static/js/3.53083d8f.chunk.js.map",
+    "index.html": "/TableReact/index.html",
+    "static/css/2.00bb4513.chunk.css.map": "/TableReact/static/css/2.00bb4513.chunk.css.map",
+    "static/css/main.3743a034.chunk.css.map": "/TableReact/static/css/main.3743a034.chunk.css.map",
+    "static/js/2.40c5bb27.chunk.js.LICENSE.txt": "/TableReact/static/js/2.40c5bb27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08004b1f.js",
+    "static/css/2.00bb4513.chunk.css",
+    "static/js/2.40c5bb27.chunk.js",
+    "static/css/main.3743a034.chunk.css",
+    "static/js/main.4c55bc73.chunk.js"
+  ]
+}
